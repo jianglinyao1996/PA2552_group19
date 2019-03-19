@@ -5,6 +5,7 @@ public CalculatorMain(){
 		
 	}
 	public int add(int a, int b){
+		System.out.println("hello");
 		return a+b;
 	}
 	public int div(int a, int b){
@@ -52,4 +53,5 @@ public CalculatorMain(){
 	{
 		return a*a;
 	}
+	
 }
